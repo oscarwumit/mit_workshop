@@ -5,6 +5,7 @@
 
 Welcome to molecool_mit's documentation!
 =========================================================
+molecool is a python pkg.
 
 .. toctree::
    :maxdepth: 2
